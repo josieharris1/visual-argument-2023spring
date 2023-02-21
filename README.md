@@ -9,6 +9,10 @@ SOURCES:
 
   Free to use under the Unsplash License 
   
-3. Pawel Czerwinski. “pawel-czerwinski-yn97LNy0bao-unsplash.jpg” Unsplash, 30 March 2019, https://unsplash.com/photos/yn97LNy0bao
+3. Pawel Czerwinski. “pawel-czerwinski-yn97LNy0bao-unsplash.jpg” Unsplash, 30 March 2019, https://unsplash.com/photos/yn97LNy0bao.
+
+  Free to use under the Unsplash License 
+
+4. Polina Kuzovkova, "polina-kuzovkova-7ZsAESWyF28-unsplash" Unsplash, 23 December 2020, https://unsplash.com/photos/7ZsAESWyF28.
 
   Free to use under the Unsplash License 
